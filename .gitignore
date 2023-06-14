@@ -35,6 +35,7 @@
 /MarmaraMovieWorld/obj/MarmaraMovieWorld.csproj.nuget.g.props
 /MarmaraMovieWorld/obj/project.assets.json
 /MarmaraMovieWorld/appsettings.json
+/MarmaraMovieWorld/appsettings.Development.json
 /.DS_Store
 /.vs/MarmaraMovieWorld/v17/.wsuo
 /.vs/MarmaraMovieWorld/xs/project-cache/MarmaraMovieWorld-Debug.json
