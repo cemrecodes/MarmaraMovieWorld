@@ -35,8 +35,11 @@
 /MarmaraMovieWorld/obj/MarmaraMovieWorld.csproj.nuget.g.props
 /MarmaraMovieWorld/obj/project.assets.json
 <<<<<<< HEAD
+<<<<<<< HEAD
 /MarmaraMovieWorld/appsettings.json
 /MarmaraMovieWorld/appsettings.Development.json
+=======
+>>>>>>> parent of be88f55 (Update .gitignore)
 =======
 >>>>>>> parent of be88f55 (Update .gitignore)
 /.DS_Store
